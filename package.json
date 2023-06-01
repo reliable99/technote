@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mongoose-sequence": "^5.3.1"
+  }
+}
